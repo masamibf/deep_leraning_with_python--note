@@ -2,7 +2,7 @@
 # encoding: utf-8  
 
 """ 
-@author: @长泽雅美男友
+@author: @樊厚翔
 @contact: 374454765@qq.com 
 @file: a_initial.py
 @time: 2019/3/27 10:55 

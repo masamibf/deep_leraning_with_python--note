@@ -2,7 +2,7 @@
 # encoding: utf-8  
 
 """ 
-@author: @长泽雅美男友
+@author: @樊厚翔
 @contact: houxiang_fan@163.com 
 @file: e_multi_classification.py 
 @time: 2019/4/22 21:49 

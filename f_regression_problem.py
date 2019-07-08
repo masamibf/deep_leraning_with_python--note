@@ -2,7 +2,7 @@
 # encoding: utf-8  
 
 """ 
-@author: @长泽雅美男友
+@author: @樊厚翔
 @contact: houxiang_fan@163.com 
 @file: f_regression_problem.py 
 @time: 2019/5/16 16:41 
@@ -90,4 +90,3 @@ for i in range(k):
 average_mae_history = [
     np.mean([x(i) for x in all_mae_histories]) for i in range(num_epochs)
 ]
-

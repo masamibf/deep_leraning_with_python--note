@@ -2,7 +2,7 @@
 # encoding: utf-8  
 
 """ 
-@author: @长泽雅美男友
+@author: @樊厚翔
 @contact: houxiang_fan@163.com 
 @file: d_binary_classification.py 
 @time: 2019/4/21 17:26 
@@ -113,7 +113,7 @@ plt.legend()
 plt.show()
 
 
-"""================= 绘制训练损失和验证损失 =================="""
+"""================= 绘制训练精度和验证精度 =================="""
 plt.clf()
 acc = history_dict['acc']
 val_acc = history_dict['val_acc']
